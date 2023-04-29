@@ -6,7 +6,7 @@ This project allows people to strengthen and enrich their English vocabulary ski
 
 ## Set Up
 - Run git clone on the command line / download the zip file
-- In the console's project type:
+- In the project's terminal run these commands:
 1. pip intall requests
 2. pip install bs4
 3. python Practice.py
