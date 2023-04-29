@@ -13,5 +13,5 @@ This project allows people to strengthen and enrich their English vocabulary ski
 
 ## How To Use The Application
 - Every time a new word will be generated. 
-- The user has to notify if he knew the Hebrew translation.
+- The user has to notify if he knew the Hebrew translation by typing yes/no
 - If the user knew, this word won't be asked again. Otherwise, it will appear again late.
