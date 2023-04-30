@@ -30,7 +30,7 @@ while True:
 	print(random_word)
 	
 	#reavel translation
-	if(input("Press AnyThing (Except Enter) to reveal translation: ")):
+	if(input("Press any letter on the keyboard and then enter to reveal the translation: ")):
 		print(translate(random_word))
 
 	if(input("Did you know the answer? (Type y/n): ").lower() in ["Yes", "y"]):
@@ -44,6 +44,7 @@ while True:
 	my_input = input("Do you want to quit?")
 	if (my_input.lower() in ["y", "yes"]):
 		break
+	print(" "*1)
 
 print(" "*1)
 print("Thanks For The Daily Practice! See You Tommorow!") 
