@@ -2,7 +2,7 @@
 An app for practicing English vocabulary using Python & BeautifulSoup.
 
 ## Introduction
-This project allows people to strengthen and enrich their English vocabulary skills.
+This project allows people to strengthen and enrich their English vocabulary skills.\
 That was the main reason why I built this program, to improve my vocabulary.
 
 ## Set Up
